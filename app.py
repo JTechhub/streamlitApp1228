@@ -4,7 +4,7 @@ import requests
 import json
 import pydeck as pdk
 
-api_key = "757766614b74616c374a46696a55"
+api_key = api_key
 bike_dict = {"rackTotCnt":[], "stationName":[],
              "parkingBikeTotCnt":[], "shared":[],
              "latitude":[], "longitude":[]}
